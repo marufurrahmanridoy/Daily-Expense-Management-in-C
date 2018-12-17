@@ -10,7 +10,7 @@ So a user can do:<br/>
 i. show his/her daily record<br/>
 ii. can update their record<br/>
 iii. Can delete record <br/>
-iv. can set monthly income and cost date wise<br/>
+iv. can set monthly cost, per day cost date wise<br/>
 v. For all things must be logged on into it.<br/>
 
 <h2>#Contributing</h2><br/>
