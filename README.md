@@ -6,12 +6,12 @@ Code Blocks downloaded from: http://www.codeblocks.org/downloads/26 .Then  run t
 
 <h2>#Usages Instruction</h2><br/>
 Basically, It's a user based project. only user can note down his/her daily routine things and his/her expenses also like add, delete, update and others things.
-So a user can do:
-i. show his/her daily record
-ii. can update their record
-iii. Can delete record 
-iv. can set monthly income and cost date wise
-v. For all things must me logged on into it.
+So a user can do:<br/>
+i. show his/her daily record<br/>
+ii. can update their record<br/>
+iii. Can delete record <br/>
+iv. can set monthly income and cost date wise<br/>
+v. For all things must me logged on into it.<br/>
 
 <h2>#Contributing</h2><br/>
 There are Just Categories:<br/>
